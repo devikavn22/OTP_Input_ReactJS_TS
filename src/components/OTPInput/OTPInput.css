@@ -1,0 +1,23 @@
+
+.otp-container{
+    margin: auto;
+    border: 5px solid rgb(64, 156, 100);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(46, 43, 43);
+}
+
+.otp-heading{
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.otp-input{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(11, 56, 11);
+}
